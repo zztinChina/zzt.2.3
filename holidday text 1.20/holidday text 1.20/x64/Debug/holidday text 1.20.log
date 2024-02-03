@@ -1,0 +1,3 @@
+﻿  text.c
+D:\vs编译器\holidday text 1.20\holidday text 1.20\text.c(25): warning C4715: “math”: 不是所有的控件路径都返回值
+  holidday text 1.20.vcxproj -> D:\vs编译器\holidday text 1.20\x64\Debug\holidday text 1.20.exe
